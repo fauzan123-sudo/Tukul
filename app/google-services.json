@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225095319603",
+    "project_id": "tukul-ebaa6",
+    "storage_bucket": "tukul-ebaa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225095319603:android:1439ed2f9d29b57e36a346",
+        "android_client_info": {
+          "package_name": "com.example.tukul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225095319603-vlqtggm0qv0apnoh4gneffrgsdiltf4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8jsA3moQLWnibxPScCUWL4v1dlqXO0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225095319603-vlqtggm0qv0apnoh4gneffrgsdiltf4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
